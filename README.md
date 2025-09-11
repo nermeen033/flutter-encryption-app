@@ -1,7 +1,7 @@
 # Secure Mindes
 
 Secure Mindes is a Flutter app implementing basic encryption algorithms (CBC, RSA, SHA-1) for educational purposes. 
-The app was developed with assistance from **AI tools (ChatGPT-4 and DeepSeek)**, which helped me with **writing and some Flutter/Dart syntax**.
+The app was developed with assistance from **AI tools (ChatGPT-4 and DeepSeek)**, which helped me with **writing some Flutter/Dart syntax**.
 
 ## Features
 - Text encryption & decryption
