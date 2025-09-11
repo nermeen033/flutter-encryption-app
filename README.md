@@ -1,16 +1,24 @@
-# secured_mind
+# Secure Mindes
 
-A new Flutter project.
+Secure Mindes is a Flutter app implementing basic encryption algorithms (CBC, RSA, SHA-1) for educational purposes. 
+The app was developed with assistance from **AI tools (ChatGPT-4 and DeepSeek)**, which helped me with **writing and some Flutter/Dart syntax**.
 
-## Getting Started
+## Features
+- Text encryption & decryption
+- Learning-focused encryption implementation
 
-This project is a starting point for a Flutter application.
+## Notes
+- For educational use only
+- Developed as a practice project to learn Flutter and encryption / decryption concepts
 
-A few resources to get you started if this is your first Flutter project:
+## License
+MIT License
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Copyright (c) 2025 Nermeen Ahmed Sonbol
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell copies, subject
+to including this copyright notice in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
