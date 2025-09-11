@@ -21,4 +21,4 @@ of this software and associated documentation files (the "Software"), to use,
 copy, modify, merge, publish, distribute, sublicense, and/or sell copies, subject
 to including this copyright notice in all copies.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
