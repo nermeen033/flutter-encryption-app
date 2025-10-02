@@ -10,7 +10,7 @@ The app was developed with assistance from **AI tools (ChatGPT-4 and DeepSeek)**
 ## Notes
 - For educational use only
 - Developed as a practice project to learn Flutter and encryption / decryption concepts
-- You Can See the UI of the App from uploaded files "App GUI"
+- You Can See the UI of the App from uploaded files "app GUI"
 
 ## License
 MIT License
